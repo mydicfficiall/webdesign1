@@ -1,0 +1,13 @@
+list - unordered<ul>-<li> type(square; circle...)
+     - ordered  <ol>-<li> type(a; I...)
+     -description<dl>-<dt>-<dd>
+<b>  -bold
+<i>  -ilatic
+<u>  -underlined
+<small>-under
+<strong>
+<sup> -up
+<span> -nooir bat
+      
+     
+		
